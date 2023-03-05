@@ -1,4 +1,5 @@
-# Motion Tracking App 개발을 위해, 최초 ThreeDPoseTracker 프로젝트 Copy해옴옴
+# Motion Tracking App 개발을 위해, 
+# 최초 ThreeDPoseTracker 프로젝트 Copy해옴옴
 
 # ThreeDPoseTracker (I will not be updating this page.)
 このプロジェクトはプライベートのリポジトリに移動したためメンテナンスを行っていません。古いままなのでエラーが発生するかも知れませんがそういう物として見てください。
